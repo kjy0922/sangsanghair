@@ -3,27 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="0e10133d-0a9b-4a86-89ec-0ebb86e396bd" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" afterPath="$PROJECT_DIR$/.idea/webServers.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/.htaccess" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/.htaccess" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/LICENSE.txt" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/LICENSE.txt" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/akismet.css" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/akismet.css" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/akismet.js" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/akismet.js" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/form.js" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/form.js" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/akismet.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/akismet.php" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-admin.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-admin.php" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-cli.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-cli.php" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-rest-api.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-rest-api.php" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-widget.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-widget.php" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet.php" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/index.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/index.php" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/readme.txt" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/readme.txt" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/config.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/views/config.php" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/get.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/views/get.php" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/notice.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/views/notice.php" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/start.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/views/start.php" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/stats.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/views/stats.php" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/wrapper.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/wrapper.php" />
+      <change beforePath="$PROJECT_DIR$/wp-config.php" afterPath="$PROJECT_DIR$/wp-config.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -2009,6 +1990,11 @@
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
     <property name="settings.editor.splitter.proportion" value="0.2673171" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -2046,7 +2032,7 @@
       <workItem from="1514649302845" duration="255000" />
       <workItem from="1514649577944" duration="7104000" />
       <workItem from="1514661998402" duration="2212000" />
-      <workItem from="1514668460083" duration="3112000" />
+      <workItem from="1514668460083" duration="3954000" />
     </task>
     <task id="LOCAL-00001" summary="database file commit">
       <created>1514648793426</created>
@@ -2118,11 +2104,18 @@
       <option name="project" value="LOCAL" />
       <updated>1514671572318</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="ftp file commit">
+      <created>1514671618100</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1514671618100</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13523000" />
+    <option name="totallyTimeSpent" value="14365000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -2199,7 +2192,8 @@
     <MESSAGE value="workspace.xml file updata commit" />
     <MESSAGE value="wp kor user setup" />
     <MESSAGE value="ftp file delete commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="ftp file delete commit" />
+    <MESSAGE value="ftp file commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="ftp file commit" />
   </component>
   <component name="WordPressConfiguration" enabled="true">
     <wordpressPath>C:\xampp\htdocs\sangsanghair</wordpressPath>
