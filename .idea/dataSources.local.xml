@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="dbsangsanghair@db.sangsang.com" uuid="b4db9183-959d-4c5a-a912-fb4b4d2377e2">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <secret-storage>master_key</secret-storage>
+      <first-sync>true</first-sync>
+      <user-name>sangsanghair</user-name>
+    </data-source>
+  </component>
+</project>
