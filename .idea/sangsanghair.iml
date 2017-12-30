@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/core/src/Xpressengine" isTestSource="false" packagePrefix="Xpressengine\" />
+      <sourceFolder url="file://$MODULE_DIR$/resources/ToggleMenus" isTestSource="false" packagePrefix="Xpressengine\ToggleMenus\" />
+      <sourceFolder url="file://$MODULE_DIR$/resources/Themes" isTestSource="false" packagePrefix="Xpressengine\Themes\" />
+      <sourceFolder url="file://$MODULE_DIR$/resources/FieldTypes" isTestSource="false" packagePrefix="Xpressengine\FieldTypes\" />
+      <sourceFolder url="file://$MODULE_DIR$/resources/UIObjects" isTestSource="false" packagePrefix="Xpressengine\UIObjects\" />
+      <sourceFolder url="file://$MODULE_DIR$/resources/Skins" isTestSource="false" packagePrefix="Xpressengine\Skins\" />
+      <sourceFolder url="file://$MODULE_DIR$/app" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/migrations" isTestSource="false" packagePrefix="Xpressengine\Migrations\" />
+      <sourceFolder url="file://$MODULE_DIR$/resources/Widgets" isTestSource="false" packagePrefix="Xpressengine\Widgets\" />
+      <sourceFolder url="file://$MODULE_DIR$/resources/FieldSkins" isTestSource="false" packagePrefix="Xpressengine\FieldSkins\" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" packagePrefix="Tests\" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
