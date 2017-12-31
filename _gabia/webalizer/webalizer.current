@@ -1,0 +1,524 @@
+# Webalizer V2.23-05 Incremental Data - 12/30/2017 23:10:31
+2017 12 30 23 10 31
+294 203 13 137 20 9 14088308 64 16 0
+13 12 185 30 30
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+294 203 14088308 13 64 16
+0 0 0 0 0 0
+0 0 0 0
+2 2 19117 1
+1 0 216 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+3 1 20034 3
+3 1 20745 2
+0 0 0 0
+0 0 0 0
+1 0 216 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+64 63 6569056 11
+185 113 7105403 37
+11 9 150341 2
+4 2 22126 2
+8 3 33621 3
+12 9 147433 2
+0
+0
+0
+203
+0
+0
+0
+0
+0
+0
+0
+1
+25
+0
+65
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/assets/core/common/css/progress.css
+0 3 0 4190 0 0
+/storage/app/public/theme/theme/alice@alice.1/60/4e/footerLogoImage
+0 3 0 14172 0 0
+/wp-admin/css/install.min.css
+0 2 0 11300 0 0
+/Nail
+0 3 0 56646 0 0
+/assets/core/xe-ui-component/img/flags.png
+1 2 0 28123 0 0
+/plugins/ckeditor/components/EditorTools/IframeTool/assets/style.css
+0 1 0 36 0 0
+/plugins/ckeditor/assets/xe_additional_plugins/suggestion/plugin.js
+0 1 0 20081 0 0
+/Hair/create
+0 2 0 59780 0 0
+/plugins/ckeditor/components/EditorTools/XeiconTool/assets/xeicon.js
+0 1 0 1323 0 0
+/plugins/ckeditor/assets/ckeditor/plugins/xeFixed/plugin.js
+0 1 0 1603 0 0
+/plugins/ckeditor/components/EditorTools/ImageResizeTool/assets/ImageResizeTool.js
+0 1 0 1579 0 0
+/plugins/alice/theme/assets/img/t_m_red.png
+1 1 0 41749 0 0
+/wp-includes/css/buttons.min.css
+0 2 0 12288 0 0
+/plugins/ckeditor/assets/ckeditor/styles.js
+0 3 0 11032 0 0
+/plugins/ckeditor/assets/ckeditor/plugins/html5video/lang/en.js
+0 1 0 464 0 0
+/plugins/xeicon_tool/assets/style.css
+0 1 0 1009 0 0
+/plugins/alice/theme/assets/img/t_t_brown.png
+1 1 0 132014 0 0
+/storage/app/public/theme/theme/alice@alice.1/21/39/logoImage
+0 3 0 9594 0 0
+/plugins/ckeditor/assets/ckeditor/xe.ckeditor.define.js
+0 3 0 87064 0 0
+/assets/core/member/auth.css
+0 2 0 6580 0 0
+/wp-admin/images/spinner.gif
+1 2 25769803777 8324 0 0
+/assets/core/member/img/default_avatar.jpg
+1 1 0 0 0 0
+/assets/vendor/jQuery-File-Upload/js/jquery.iframe-transport.js
+0 3 0 21458 0 0
+/assets/core/common/js/xe.editor.core.js
+0 3 0 21558 0 0
+/plugins/ckeditor/assets/ckeditor/plugins/tableselection//styles/tableselection.css
+0 1 0 1076 0 0
+/assets/core/settings/img/logo.png
+1 1 0 0 0 0
+/plugins/alice/theme/assets/js/jquery.parallax-1.1.3.js
+0 3 0 3540 0 0
+/plugins/ckeditor/assets/ckeditor/lang/ko.js
+0 1 0 15239 0 0
+/Education
+0 2 0 37824 0 0
+/assets/core/settings/img/bg_admin_snb.gif
+1 1 0 0 0 0
+/plugins/alice/theme/assets/img/img_parallax.jpg
+1 3 0 107312 0 0
+/plugins/comment/assets/js/service.js
+0 2 0 28839 0 0
+/plugins/alice/theme/assets/img/bg_welcome.jpg
+1 1 0 0 0 0
+/plugins/news_client/assets/style.css
+0 1 0 0 0 0
+/storage/app/public/theme/theme/alice@alice.1/df/2f/slide3Image
+0 3 0 1752838 0 0
+/plugins/ckeditor/assets/ckeditor/plugins/codesnippet/lib/highlight/highlight.pack.js
+0 3 0 60358 0 0
+/plugins/ckeditor/assets/ckeditor/plugins/xePasteImage/plugin.js
+0 1 0 5821 0 0
+/plugins/ckeditor/assets/compiler/contentsCompiler.js
+0 3 0 4668 0 0
+/plugins/alice/theme/assets/img/img_support_m.png
+1 2 0 591448 0 0
+/plugins/ckeditor/assets/ckeditor/editor.css
+0 3 0 15164 0 0
+/plugins/ckeditor/assets/ckeditor/skins/xe-minimalist/editor.css
+0 1 0 23356 0 0
+/plugins/alice/theme/assets/img/pc_pc_blue.png
+1 1 0 0 0 0
+/plugins/ckeditor/components/EditorTools/XeiconTool/assets/style.css
+0 1 0 1009 0 0
+/plugins/alice/theme/assets/img/m_m_red.png
+1 1 0 276840 0 0
+/plugins/ckeditor/assets/ckeditor/plugins/wordcount/plugin.js
+0 1 0 15631 0 0
+/plugins/ckeditor/assets/ckeditor/skins/xe-minimalist/icons.png
+1 1 0 9391 0 0
+/plugins/alice/theme/assets/img/img_support3_m.png
+1 2 0 504436 0 0
+/storage/app/public/favicon/default/f6/ef/local
+0 1 0 7340 0 0
+/plugins/board/assets/js/build/BoardTags.js
+0 1 0 266138 0 0
+/plugin/comment/form
+0 2 0 34 0 0
+/plugins/ckeditor/assets/ckeditor/skins/xe-minimalist/skin.js
+0 1 0 3905 0 0
+/Incruit
+0 3 0 56700 0 0
+/plugins/ckeditor/assets/compiler/hashTag.css
+0 3 0 978 0 0
+/plugins/ckeditor/assets/ckeditor/content.css
+0 1 0 2446 0 0
+/assets/core/common/css/griper.css
+0 3 0 2544 0 0
+/Promotion
+0 4 0 80755 0 0
+/Hair/hasSlug
+0 1 0 34 0 0
+/plugins/google_map_tool/assets/googleMapRenderer.js
+0 1 0 2754 0 0
+/plugin/comment/index
+0 2 0 156 0 0
+/editor/file/5a6f89d7/upload
+0 1 0 2724 0 0
+/storage/app/public/theme/theme/alice@alice.1/e6/94/slide1Image
+0 3 0 1084574 0 0
+/plugins/ckeditor/assets/ckeditor/plugins/scayt/dialogs/dialog.css
+0 1 0 419 0 0
+/plugins/alice/theme/assets/img/title-bg.png
+1 3 0 2620 0 0
+/assets/vendor/jQuery-File-Upload/js/jquery.fileupload.js
+0 3 0 126660 0 0
+/plugins/alice/theme/assets/img/m_m_brown.png
+1 1 0 252450 0 0
+/plugins/alice/theme/assets/img/pc_m_red.png
+1 1 0 0 0 0
+/plugins/alice/theme/assets/img/pc_t_red.png
+1 1 0 0 0 0
+/assets/bundle.js
+0 3 0 195762 0 0
+/assets/core/xe-ui-component/js/xe-page.js
+0 3 0 22266 0 0
+/plugins/alice/theme/assets/img/pc_t_blue.png
+1 1 0 0 0 0
+/wp-includes/js/jquery/jquery-migrate.min.js
+0 2 0 20112 0 0
+/auth/login
+0 2 0 24909 0 0
+/plugins/ckeditor/components/EditorTools/IframeTool/assets/iframe.js
+0 1 0 2113 0 0
+/plugins/alice/theme/assets/img/pc_pc_red.png
+1 1 0 0 0 0
+/storage/app/public/theme/theme/alice@alice.1/c0/40/slide2Image
+0 3 0 1980942 0 0
+/plugins/comment/assets/css/comment.css
+0 2 0 18953 0 0
+/assets/core/common/css/xe-common.css
+0 3 0 16128 0 0
+/plugins/alice/theme/assets/img/img_device_tablet.png
+1 1 0 7470 0 0
+/plugin/lang/lines/many
+0 2 0 662 0 0
+/plugins/alice/theme/assets/img/bg_welcome_tablet.jpg
+1 2 0 49264 0 0
+/plugins/ckeditor/assets/ckeditor/plugins/wordcount/css/wordcount.css
+0 1 0 141 0 0
+/wp-includes/js/jquery/jquery.js
+0 2 0 194368 0 0
+/plugins/alice/theme/assets/img/m_m_blue.png
+1 1 0 454056 0 0
+/assets/core/common/js/utils.js
+0 1 0 15060 0 0
+/storage/app/public/theme/theme/alice@alice.0/83/f0/logoImage
+0 3 0 9594 0 0
+/Hair
+0 5 0 109167 0 0
+/plugins/alice/theme/assets/css/owl.carousel.css
+0 3 0 9228 0 0
+/Intro
+0 2 0 33528 0 0
+/plugins/alice/theme/assets/img/img_support3.png
+1 1 0 0 0 0
+/plugins/alice/theme/assets/img/t_m_blue.png
+1 1 0 47800 0 0
+/plugins/alice/theme/assets/img/pc_t_brown.png
+1 1 0 0 0 0
+/plugins/board/assets/img/img_pen.jpg
+1 2 0 5759 0 0
+/storage/app/public/thumbnails/28/d1/spill_800x800_58d6775ae979ac240f964e1d2fec79633db8f622.jpeg
+0 1 0 109495 0 0
+/assets/core/xe-ui-component/xe-ui-component.css
+0 3 0 218890 0 0
+/plugins/alice/theme/assets/js/layout.js
+0 3 0 7122 0 0
+/plugins/google_map_tool/assets/googleMapTool.js
+0 1 0 2353 0 0
+/wp-admin/images/wordpress-logo.svg
+0 2 25769803777 3042 0 0
+/plugins/alice/theme/assets/img/img_device_mobile.png
+1 1 0 12669 0 0
+/plugins/ckeditor/assets/ckeditor/ckeditor.js
+0 3 0 1252538 0 0
+/plugins/alice/theme/assets/img/pc_pc_brown.png
+1 1 0 0 0 0
+/
+0 12 0 195435 14 3
+/plugins/alice/theme/assets/img/pc_m_brown.png
+1 1 0 0 0 0
+/wp-admin/js/language-chooser.min.js
+0 2 0 748 0 0
+/assets/core/common/js/xe.bundle.js
+0 3 0 576302 0 0
+/plugins/alice/theme/assets/img/t_m_brown.png
+1 1 0 40245 0 0
+/assets/vendor/XEIcon/fonts/xeicon.woff2
+0 3 0 114600 0 0
+/plugins/alice/theme/assets/img/img_support.png
+1 1 0 0 0 0
+/plugins/alice/theme/assets/img/bg_involve.png
+1 3 0 381226 0 0
+/plugins/daum_map_tool/assets/daumMapRenderer.js
+0 1 0 2652 0 0
+/storage/app/public/editor/4e/de/201712301937179439cd06f0378ca856556bb72d9d6613d5d0e81f.jpeg
+0 1 0 190002 0 0
+/plugins/board/assets/js/build/board.js
+0 3 0 522242 0 0
+/storage/app/public/theme/theme/alice@alice.0/55/9d/footerLogoImage
+0 3 0 14172 0 0
+/wp-admin/setup-config.php
+0 8 0 88484 0 0
+/plugins/ckeditor/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/monokai_sublime.css
+0 3 0 4970 0 0
+/assets/vendor/bootstrap/css/bootstrap.css
+0 1 0 0 0 0
+/assets/core/settings/js/admin.bundle.js
+0 1 0 0 0 0
+/assets/vendor/jQuery-File-Upload/js/vendor/jquery.ui.widget.js
+0 3 0 31726 0 0
+/plugins/ckeditor/assets/ckeditor/plugins/html5video/plugin.js
+0 1 0 6272 0 0
+/plugins/alice/theme/assets/img/img_support2_m.png
+1 2 0 411514 0 0
+/plugins/alice/theme/assets/img/t_t_red.png
+1 1 0 132588 0 0
+/assets/vendor/XEIcon/xeicon.min.css
+0 3 0 72432 0 0
+/robots.txt
+0 2 0 70 0 0
+/plugins/naver_map_tool/assets/naverMapRenderer.js
+0 1 0 2699 0 0
+/plugins/alice/theme/assets/img/img_support2.png
+1 1 0 0 0 0
+/plugins/xeicon_tool/assets/xeicon.js
+0 1 0 1099 0 0
+/plugins/board/assets/css/board.css
+0 3 0 68440 0 0
+/plugins/naver_map_tool/assets/naverMapTool.js
+0 1 0 2373 0 0
+/plugins/alice/theme/assets/css/layout.css
+0 3 0 77894 0 0
+/plugins/alice/theme/assets/js/owl.carousel.min.js
+0 3 0 80802 0 0
+/plugins/alice/theme/assets/img/bg_starter.jpg
+1 3 0 118284 0 0
+/settings/dashboard
+0 1 0 33674 0 1
+/plugins/alice/theme/assets/img/t_t_blue.png
+1 1 0 186477 0 0
+/plugins/ckeditor/assets/ckeditor/plugins/wordcount/lang/en.js
+0 1 0 484 0 0
+/assets/core/settings/css/admin.css
+0 1 0 0 0 0
+/plugins/alice/theme/assets/img/pc_m_blue.png
+1 1 0 0 0 0
+/plugins/daum_map_tool/assets/daumMapTool.js
+0 1 0 2339 0 0
+/plugins/alice/theme/assets/img/img_device_pc.png
+1 1 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+37.9.113.193
+0 2 2 20348 1 1514659494
+/
+183.100.0.125
+0 99 94 6805854 1 1514662728
+-
+66.249.73.128
+0 1 1 20313 1 1514662541
+/
+196.52.43.55
+0 1 1 20313 1 1514622204
+/
+66.249.65.221
+0 1 1 35 0 0
+-
+39.118.177.85
+0 10 8 136370 1 1514675384
+/
+211.36.139.37
+0 61 61 6548492 1 1514659573
+/Education
+52.27.2.86
+0 2 1 11063 1 1514675431
+/
+14.47.173.28
+0 108 32 485324 4 1514672450
+/
+66.249.65.220
+0 3 2 38900 2 1514619924
+/
+66.249.65.222
+0 3 0 648 1 1514634022
+/
+211.43.203.113
+0 2 0 432 1 1514617204
+-
+121.254.216.15
+0 1 0 216 1 1514621718
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+37.9.113.193
+0 2 2 20348 1 1514659494
+/
+183.100.0.125
+0 99 94 6805854 1 1514662728
+-
+66.249.73.128
+0 1 1 20313 1 1514662541
+/
+196.52.43.55
+0 1 1 20313 1 1514622204
+/
+66.249.65.221
+0 1 1 35 0 0
+-
+39.118.177.85
+0 10 8 136370 1 1514675384
+/
+211.36.139.37
+0 61 61 6548492 1 1514659573
+/Education
+52.27.2.86
+0 2 1 11063 1 1514675431
+/
+14.47.173.28
+0 108 32 485324 4 1514672450
+/
+66.249.65.220
+0 3 2 38900 2 1514619924
+/
+66.249.65.222
+0 3 0 648 1 1514634022
+/
+211.43.203.113
+0 2 0 432 1 1514617204
+-
+121.254.216.15
+0 1 0 216 1 1514621718
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://sangsanghair.com/Promotion
+0 15
+http://sangsanghair.com/Hair/create
+0 47
+http://sangsanghair.com/assets/core/settings/css/admin.css
+0 1
+http://sangsanghair.com/assets/core/xe-ui-component/xe-ui-component.css
+0 1
+http://www.sangsanghair.com/wp-admin/css/install.min.css
+0 2
+http://sangsanghair.com/wp-admin/setup-config.php
+0 6
+http://sangsanghair.com/Incruit
+0 3
+- (Direct Request)
+0 39
+http://sangsanghair.com/wp-admin/css/install.min.css
+0 2
+http://sangsanghair.com/assets/vendor/XEIcon/xeicon.min.css
+0 1
+http://sangsanghair.com/plugins/alice/theme/assets/css/layout.css
+0 18
+http://sangsanghair.com/Hair
+0 10
+http://sangsanghair.com/Intro
+0 31
+http://sangsanghair.com/auth/login
+0 8
+http://sangsanghair.com/index.php
+0 1
+http://sangsanghair.com/Education
+0 1
+http://sangsanghair.com/
+0 93
+http://sangsanghair.com/Nail
+0 3
+http://www.sangsanghair.com/wp-admin/setup-config.php
+0 6
+http://sangsanghair.com/settings/dashboard
+0 6
+# End Of Table - referrers
+# -agents- 
+Jakarta Commons-HttpClient/3.1
+0 1
+Mozilla/5.0 (iPad; CPU OS 11_2_1 like Mac OS X) AppleWebKit/604.4.7 (KHTML, like Gecko) Version/11.0 Mobile/15C153 Safari/604
+0 99
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_1 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) CriOS/63.0.3239.73 Mobile/1
+0 61
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 8
+Jakarta-Commons-VFS
+0 1
+Java/1.8.0_152-release
+0 12
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)
+0 2
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+0 104
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

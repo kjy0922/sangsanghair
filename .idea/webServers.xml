@@ -11,7 +11,15 @@
         </fileTransfer>
       </webServer>
       <webServer id="9bd24521-2e58-4394-95c3-f971099c2794" name="XAMPP Apache" url="http://localhost">
-        <fileTransfer port="0" mountedRoot="C:\xampp\htdocs" accessType="MOUNT" />
+        <fileTransfer port="0" mountedRoot="C:\xampp\htdocs\sangsanghair" accessType="MOUNT" />
+      </webServer>
+      <webServer id="44a08cc5-5a00-43e2-b096-eb4111813dd1" name="sangsang" url="http://sangsanghair.com">
+        <fileTransfer host="sangsanghair.com" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
       </webServer>
     </option>
   </component>
